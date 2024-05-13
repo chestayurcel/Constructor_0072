@@ -30,7 +30,7 @@ Mahasiswa::Mahasiswa(int iNim, string iNama)
 {
     nim = iNim;
     nama = iNama;
-};
+}
 
 void Mahasiswa::cetak(){
     cout << "NIM    = " << nim << endl;
